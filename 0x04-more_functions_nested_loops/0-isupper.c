@@ -1,8 +1,8 @@
 #include "main.h"
 /**
- *  _isupper - Entry Point
- *  Return: 0 or 1 (Success)
- *  @c: single character input
+ *_isupper - Entry Point
+ *Return: 0 or 1 (Success)
+ *@c: single character input
  */
 int _isupper(int c)
 {
