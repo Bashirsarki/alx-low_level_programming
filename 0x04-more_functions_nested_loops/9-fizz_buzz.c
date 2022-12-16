@@ -24,7 +24,7 @@ int main(void)
 		{
 			printf("Fizz ");
 		}
-		elsei
+		else
 		{
 			printf("%d ", i);
 		}
